@@ -1,2 +1,1 @@
-# Chess
-Text-Based Chess
+2 Player Text-Based Chess Game
